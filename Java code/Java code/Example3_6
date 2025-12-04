@@ -1,0 +1,17 @@
+public class Student{
+        String name;
+        int age;
+        public Student() {
+                            name="张海";
+                            age=21;
+                       }
+       void sayHello() {
+                           System.out.println("大家好，我是" + name + "，年龄" + age);
+                       }
+   }
+   public class Example3_6{
+      public static void main (String[] args) {
+                          Student stu = new Student();
+                           stu.sayHello();
+                       }
+   }
