@@ -1,0 +1,28 @@
+class Student {
+        String name;
+        void sayHello( ) {
+                            System.out.println("大家好，我是"+name+",我在看书！");
+                        }
+    }
+   public class example3 {
+       public static void main(String[] args[]) {
+                           Student stu=new Student( );
+                       }
+   }
+
+class Student{
+        String name;
+        void sayHello(){
+                            System.out.println("大家好，我是"+name);
+                        }
+    }
+   public class Example3_4 {
+       public static void main(String[] args){
+                           Student stu1=new Student();
+                          Student stu2=new Student();
+                          stu1.name="小明";
+                           stu1.sayHello();
+                           stu2.name="小华";
+                           stu2.sayHello();
+                       }
+   }
