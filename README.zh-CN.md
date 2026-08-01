@@ -110,9 +110,24 @@ CloudTrail → S3（KMS 加密）
 
 ## 🖼️ 架构图一览
 
-| 图像处理系统 | 安全审计平台 | GenAI 文档助手 |
-|-------------|-------------|---------------|
-| ![](assets/image-processing.png) | ![](assets/security-platform.png) | ![](assets/genai.png) |
+<table>
+<tr>
+<td align="center">
+<b>图像处理系统</b><br>
+<img src="assets/image-processing.png" width="320">
+</td>
+
+<td align="center">
+<b>安全审计平台</b><br>
+<img src="assets/security-platform.png" width="320">
+</td>
+
+<td align="center">
+<b>GenAI 文档助手</b><br>
+<img src="assets/genai.png" width="320">
+</td>
+</tr>
+</table>
 
 ## 🐍 算法与数据科学
 
