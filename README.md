@@ -158,7 +158,7 @@ Amazon EKS — Kubernetes container orchestration
 Multi-Account Landing Zone — Enterprise-grade AWS Organization architecture
 CI/CD Enhancement — Complete automated testing and deployment pipeline
 AI Agent — Autonomous AI agent with tool-calling capabilities
-Observability Suite — X-Ray + CloudWatch unified monitoring**
+Observability Suite — X-Ray + CloudWatch unified monitoring
 
 ## 📁 Project Structure
 
