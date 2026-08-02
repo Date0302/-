@@ -158,7 +158,7 @@ Amazon EKS — Kubernetes コンテナオーケストレーション
 マルチアカウント Landing Zone — 企業級 AWS Organization アーキテクチャ
 CI/CD 強化 — 完全自動化テストとデプロイパイプライン
 AI Agent — ツール呼び出し機能を備えた自律型 AI エージェント
-オブザーバビリティスイート — X-Ray + CloudWatch 統合監視**
+オブザーバビリティスイート — X-Ray + CloudWatch 統合監視
 
 ## 📁 プロジェクト構成
 
